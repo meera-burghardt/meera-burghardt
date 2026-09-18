@@ -13,7 +13,14 @@ Most recently I built public sector go-to-market strategy and analytics at [Worl
 
 ## Toolkit
 
-*[Fill in yourself — keep to what you'd defend in a technical interview]*
+**Languages** Python · R · SQL · Java
+
+**Analysis** pandas · NumPy · scikit-learn · tidyverse · econometrics
+
+**Geospatial** ArcGIS · QGIS · sf/sp in R
+
+**Other** Stata · Excel · Git · LaTeX
+
 
 ## Featured work
 
