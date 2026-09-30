@@ -7,7 +7,7 @@ Most recently I built public sector go-to-market strategy and analytics at [Worl
 
 ## Currently
 
-- Second year of the MPA-DSPP at LSE (distinction across Year 1)
+- Second year of the MPA-DSPP at LSE
 - Coursework in machine learning, causal inference, and API-based data engineering
 - Open to analytics and economic consulting roles in London from summer 2027
 
