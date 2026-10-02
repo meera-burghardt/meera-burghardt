@@ -26,7 +26,7 @@ Most recently I built public sector go-to-market strategy and analytics at [Worl
 
 **[UK Sectoral Analysis with Lasso Regression](#)** — Applied Lasso regularisation to identify key predictors of regional economic performance across the UK's 8 Industrial Strategy sectors, with regional focus on Glasgow. LSE group project, Winter 2026.
 
-**[Climate and Pastoral Violence in Kenya](#)** — Princeton senior thesis testing how climate variability and protected-area boundaries shape pastoralist conflict, using ACLED data and spatial methods in R and Python. Presented to Kenyan policymakers and protected-area managers.
+**[Climate and Pastoral Violence in Kenya](https://github.com/meera-burghardt/kenya-pastoral-violence)** — Princeton senior thesis testing how climate variability and protected-area boundaries shape pastoralist conflict, using ACLED data and spatial methods in R and Python. Presented to Kenyan policymakers and protected-area managers.
 
 **Diphtheria outbreak analysis, Western Cape Department of Health** — District-level GIS analysis of outbreak hotspots and transmission patterns, informing provincial and national vaccine deployment strategy. Built a reproducible Python pipeline for future outbreak use. Fellowship work; code not public.
 
