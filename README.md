@@ -11,11 +11,8 @@ Before LSE I worked at [World Data Lab](https://worlddatalab.com/) in Vienna on 
 
 ## Toolkit
 **Languages** Python · R · SQL
-
 **Analysis** pandas · NumPy · scikit-learn · tidyverse · econometrics
-
 **Geospatial** geopandas · sf in R · QGIS
-
 **Other** Stata · Git · LaTeX
 
 ## Projects
