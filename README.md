@@ -24,7 +24,7 @@ Most recently I built public sector go-to-market strategy and analytics at [Worl
 
 ## Featured work
 
-**[UK Sectoral Analysis with Lasso Regression](#)** — Applied Lasso regularisation to identify key predictors of regional economic performance across the UK's 8 Industrial Strategy sectors, with regional focus on Glasgow. LSE group project, Winter 2026.
+**[UK frontier industries and Glasgow City Region](https://github.com/meera-burghardt/uk-frontier-industries-elastic-net)** — Elastic net regression across approximately 350 UK local authorities to identify what predicts the presence of the UK Industrial Strategy's eight target sectors, with a focused analysis of where Glasgow City Region exceeds, underperforms, and leaves economic potential on the table. LSE group project, 2026.
 
 **[Climate and Pastoral Violence in Kenya](https://github.com/meera-burghardt/kenya-pastoral-violence)** — Princeton senior thesis testing how climate variability and protected-area boundaries shape pastoralist conflict, using ACLED data and spatial methods in R and Python. Presented to Kenyan policymakers and protected-area managers.
 
